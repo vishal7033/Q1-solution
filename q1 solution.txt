@@ -1,0 +1,1 @@
+The relationship between  the "Product" table has a primary key, and the "Product_Category" table has a foreign key that references the "Product" table's primary key.
